@@ -6,5 +6,5 @@
   <img alt="php" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg">
 </div>
 
-fullstack "developer"
+- fullstack "developer"
 i started programming around 2015ish started with rlua
