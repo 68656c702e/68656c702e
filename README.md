@@ -7,3 +7,5 @@
 
 i started programming around 2015ish starting with rlua
 - fullstack "developer"
+
+discord: `https://femboy.tk/discord.txt`
