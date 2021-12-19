@@ -8,3 +8,5 @@
 
 i started programming around 2015ish starting with roblox lua
 - fullstack "developer"
+
+i like the number 1337
