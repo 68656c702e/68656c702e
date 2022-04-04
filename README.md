@@ -6,7 +6,7 @@
   <img alt="java" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
 </div>
 
-i started programming around 2015ish starting with roblox lua
+i started programming around 2015ish with rlua
 - fullstack "developer"
 
 i like the number 1337
