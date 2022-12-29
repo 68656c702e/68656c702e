@@ -9,4 +9,4 @@
 i started programming around 2015ish with rlua
 - fullstack "developer"
 
-i like the number 1337
+i like the number 1336
